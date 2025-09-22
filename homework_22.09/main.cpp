@@ -3,7 +3,8 @@
 
 using namespace std;
 
-void print_menu() {
+void print_menu() 
+{
     cout << "Journal Menu" << endl;
     cout << "1. Show current journal info" << endl;
     cout << "2. Edit all journal info (using input())" << endl;
